@@ -45,3 +45,13 @@ Cluster Cryptocurrencies with K-means Using the PCA Data
 
 
 # Results
+
+
+
+# Elbow Curve
+
+<img width="373" alt="image" src="https://github.com/jalainep/CryptoClustering/assets/143963189/97a5bfe5-3763-4e9e-868d-ee846038c71d">
+
+
+
+
