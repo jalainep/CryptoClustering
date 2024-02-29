@@ -17,6 +17,8 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 
 
 
+
+
 # Prepare the Data
 -Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
 
@@ -26,7 +28,8 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 
 
 
-#Process
+
+# Process
 
 Find the Best Value for k Using the Original Scaled DataFrame
 
