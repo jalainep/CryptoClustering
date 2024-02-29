@@ -55,6 +55,7 @@ Elbow Curve
 
 
 
+
 Elbow Curve with PCA Data
 
 ![bokeh_plot](https://github.com/jalainep/CryptoClustering/assets/143963189/874d2393-dfee-440d-8b8f-caa2de30c05c)
@@ -62,14 +63,24 @@ Elbow Curve with PCA Data
 
 
 
+
+
+
 Cluster With Original Data
+
 ![bokeh_plot (2)](https://github.com/jalainep/CryptoClustering/assets/143963189/57e2ba65-275f-4ee6-83fa-8685ba8caa83)
 
 
 
 
 
+
+
+
+
+
 Cluster With PCA Data
+
 ![scatter](https://github.com/jalainep/CryptoClustering/assets/143963189/ab548774-7968-45dc-8450-28104a5df24a)
 
 
