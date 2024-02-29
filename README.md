@@ -25,6 +25,12 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 -Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
 
+![image](https://github.com/jalainep/CryptoClustering/assets/143963189/9751bd10-2177-4e16-b641-a1a3d8208dad)
+
+
+
+
+
 
 
 
