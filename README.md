@@ -35,6 +35,8 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 
 
 
+
+
 # Process
 
 Find the Best Value for k Using the Original Scaled DataFrame
@@ -46,6 +48,8 @@ Optimize Clusters with Principal Component Analysis
 Find the Best Value for k Using the PCA Data
 
 Cluster Cryptocurrencies with K-means Using the PCA Data
+
+
 
 
 
@@ -115,7 +119,6 @@ Elbow Curve with PCA Data
 
 
 Cluster With Original Data
-
 ![bokeh_plot (2)](https://github.com/jalainep/CryptoClustering/assets/143963189/57e2ba65-275f-4ee6-83fa-8685ba8caa83)
 
 
