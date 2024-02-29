@@ -47,9 +47,12 @@ Cluster Cryptocurrencies with K-means Using the PCA Data
 # Results
 
 
+
+
 Elbow Curve
 
 ![bokeh_plot (1)](https://github.com/jalainep/CryptoClustering/assets/143963189/09465006-5410-40b9-bfb0-8e52627d79b3)
+
 
 
 
@@ -66,9 +69,27 @@ Elbow Curve with PCA Data
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Cluster With Original Data
 
 ![bokeh_plot (2)](https://github.com/jalainep/CryptoClustering/assets/143963189/57e2ba65-275f-4ee6-83fa-8685ba8caa83)
+
+
+
+
+
+
+
 
 
 
